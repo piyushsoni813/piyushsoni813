@@ -18,8 +18,8 @@
 
 ## About Me
 
-- Student at **IIT Bombay** — [FILL IN: branch/program, e.g. "B.Tech, Electrical Engineering"]
-- Currently **CTO @ HATCH** — [FILL IN one line: what HATCH does — this is genuinely your strongest credential, don't waste it on a placeholder]
+- Student at **IIT Bombay** 
+- Currently **CTO @ HATCH** 
 - I build things that scrape, chat, and occasionally help other students not fail their end-sems
 - Looking for: [internships / SDE roles — say the actual thing]
 
