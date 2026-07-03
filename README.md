@@ -29,7 +29,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,flutter,dart,git,linux,postgresql,html,css,js&perline=6" />
+<img src="https://skillicons.dev/icons?i=cpp,python,mysql,html,css,js,react,django,linux,github,postgres,nodejs,nextjs,typescript,flutter,docker&perline=8" />
 
 </div>
 
