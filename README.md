@@ -39,13 +39,13 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=piyushsoni813&theme=tokyonight" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=piyushsoni813&theme=github_dark" height="170"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=piyushsoni813&theme=tokyonight" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=piyushsoni813&theme=github_dark" height="170"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=piyushsoni813&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="65%"/>
+<img src="https://streak-stats.demolab.com?user=piyushsoni813&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="65%"/>
 
 </div>
 
