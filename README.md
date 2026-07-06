@@ -63,7 +63,7 @@
 
 </div>
 
-A Django web app with a GPT-3.5-powered chatbot built in — real-time chat interface, user authentication, and an admin panel on top. [FILL IN: what's it *for* — is this answering student queries about your college? that's a good story if so]
+A Django web app with a GPT-3.5-powered chatbot built in — real-time chat interface, user authentication, and an admin panel on top. This is answering student queries about your college
 
 ---
 
