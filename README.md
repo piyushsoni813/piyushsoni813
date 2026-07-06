@@ -21,7 +21,7 @@
 - Student at **IIT Bombay** 
 - Currently **CTO @ HATCH** 
 - I build things that scrape, chat, and occasionally help other students not fail their end-sems
-- Looking for: [internships / SDE roles — say the actual thing]
+- Looking for: SDE roles 
 
 ---
 
@@ -73,14 +73,14 @@ A Django web app with a GPT-3.5-powered chatbot built in — real-time chat inte
 <tr>
 <td width="50%" valign="top">
 <h4>🕸️ <a href="https://github.com/piyushsoni813/Web-Scraping">Web-Scraping</a></h4>
-[FILL IN: what does it scrape and why]
+<!-- [FILL IN: what does it scrape and why] -->
 <br/><br/>
 <img src="https://img.shields.io/github/stars/piyushsoni813/Web-Scraping?style=flat-square&color=gold&logo=github"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </td>
 <td width="50%" valign="top">
 <h4>📘 <a href="https://github.com/piyushsoni813/UG_Rulebook-Helper">UG_Rulebook-Helper</a></h4>
-[FILL IN: tool to search/query your college's UG rulebook, presumably]
+<!-- [FILL IN: tool to search/query your college's UG rulebook, presumably] -->
 <br/><br/>
 <img src="https://img.shields.io/github/stars/piyushsoni813/UG_Rulebook-Helper?style=flat-square&color=gold&logo=github"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -89,14 +89,14 @@ A Django web app with a GPT-3.5-powered chatbot built in — real-time chat inte
 <tr>
 <td width="50%" valign="top">
 <h4>🔍 <a href="https://github.com/piyushsoni813/Prospace_web-scrape">Prospace_web-scrape</a></h4>
-[FILL IN one line]
+<!-- [FILL IN one line] -->
 <br/><br/>
 <img src="https://img.shields.io/github/stars/piyushsoni813/Prospace_web-scrape?style=flat-square&color=gold&logo=github"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </td>
 <td width="50%" valign="top">
 <h4>🎓 <a href="https://github.com/piyushsoni813/Sherpa-AI-Learning-Management-System">Sherpa-AI-LMS</a></h4>
-[FILL IN: who's this LMS for, what makes it "AI"]
+<!-- [FILL IN: who's this LMS for, what makes it "AI"] -->
 <br/><br/>
 <img src="https://img.shields.io/github/stars/piyushsoni813/Sherpa-AI-Learning-Management-System?style=flat-square&color=gold&logo=github"/>
 </td>
@@ -104,7 +104,7 @@ A Django web app with a GPT-3.5-powered chatbot built in — real-time chat inte
 <tr>
 <td width="50%" valign="top">
 <h4>✋ <a href="https://github.com/piyushsoni813/highfive">highfive</a></h4>
-[FILL IN: Flutter app — what does it do]
+<!-- [FILL IN: Flutter app — what does it do] -->
 <br/><br/>
 <img src="https://img.shields.io/github/stars/piyushsoni813/highfive?style=flat-square&color=gold&logo=github"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
